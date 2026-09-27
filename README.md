@@ -1,6 +1,6 @@
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=""  />
+  <img data-importer="image" height="200" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000bbd482118909f6881f5bec77&ts=497367&p=fs&cid=1&sig=0b79bb7380ab24f0ccd5149cffe15a628bca8bb1062510c61d54bb2850672880&v=0"  />
 </div>
 
 ###
