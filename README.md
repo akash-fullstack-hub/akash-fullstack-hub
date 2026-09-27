@@ -38,3 +38,44 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
+
+
+
+
+
+
+
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
