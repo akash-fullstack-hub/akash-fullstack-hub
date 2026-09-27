@@ -76,6 +76,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000bbd482118909f6881f5bec77&cp=pri&ma=90000&ts=20723&p=igh&cid=1&sig=6a1b988d76882b49e33749ea994ddcf7ec44354b105a2af4fe09d0ed7ba7b184&v=0" />
 
 ###
